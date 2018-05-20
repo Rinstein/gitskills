@@ -1,3 +1,3 @@
 # gitskills
 This is new start
-test send
+Creating a new branch is quick.
