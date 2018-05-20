@@ -1,1 +1,1 @@
-test send
+Creating a new branch is quick & simple.
